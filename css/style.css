@@ -161,10 +161,11 @@ body {
     transform: translateY(1px); }
 
 .btn--secondary {
-  background-color: #007bc1; }
+  background-color: #007bc1;
+  color: #fff !important; }
   .btn--secondary:hover {
     background-color: #007bc1;
-    color: #fff; }
+    color: #fff !important; }
 
 .btn--tertiary {
   background-color: rgba(255, 128, 0, 0.85); }
