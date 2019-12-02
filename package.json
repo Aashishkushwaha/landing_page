@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "src/main.js",
     "compile:sass": "node-sass sass/main.scss css/style.css --w"
   },
   "keywords": [],
